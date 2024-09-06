@@ -1,2 +1,12 @@
-# next-main
-Next.js + Typescript + Tailwind sample with some general features
+Next.js + Typescript + Tailwind sample with some features like: 
+  - responsive design/images
+  - layout
+  - app routing
+  - spinner
+  - toast
+  - profile
+  - google map integration
+  - feedback form with redirect
+  - server actions
+  - market with fake provider (dependency inversion approach, to the extent :) )
+  - svg icon components
